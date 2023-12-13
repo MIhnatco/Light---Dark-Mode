@@ -221,9 +221,6 @@ p {
     width: 60px;
 }
 
-.theme-switch input {
-    display: none;
-}
 
 .slider {
     background-color: #ccc;
